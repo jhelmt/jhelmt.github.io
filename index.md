@@ -15,5 +15,8 @@ I co-organize the [Durham Probability Seminar](https://www.maths.dur.ac.uk/semin
 
 **Past** (as organiser): [Frontiers... workshops](https://willperkins.org/frontiersworkshops.html).
 
+## Open position
+I am currently advertising a PDRA (postdoc) position in probability/statistical mechanics/mathematical physics, see [here](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=25001451&lang=en). The position is for 36 months (there is an additional 6 months of funding beyond the grant duration). Please contact me if you are interested in applying and have questions! The application deadline is December 7th.
+
 ## Contact
 I'm an associate professor in the Department of Mathematical Sciences at the University of Durham. You can email me: bhjm24 at durham dot ac dot uk. If you are in Durham, find me in MCS 3031.
