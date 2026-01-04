@@ -11,7 +11,7 @@ See my [arXiv](https://arxiv.org/search/?searchtype=author&query=Helmuth%2C+Tyle
 ## Events
 **Upcoming** (as participant): [Statistical Mechanics of Lattice Systems, Brin Center, Maryland](https://brinmrc.umd.edu/spring26-smls/); [Statistical Mechanics: planar & beyond, Vienna](https://www.esi.ac.at/events/e589/). 
 
-I co-organize the [Durham Probability Seminar](https://www.maths.dur.ac.uk/seminars/) with [Dr. Oliver Tough](https://sites.google.com/view/olivertough/). 
+I co-organize the [Durham Probability Seminar](https://www.maths.dur.ac.uk/seminars/) with [Dr. Oliver Tough](https://sites.google.com/view/olivertough/). [Practical details](https://www.tylerhelmuth.net/seminardetails) about the seminar. 
 
 **Past** (as organiser): [Frontiers... workshops](https://willperkins.org/frontiersworkshops.html).
 
