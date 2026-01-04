@@ -10,7 +10,7 @@ See [this link](https://maps.app.goo.gl/gCeUE9X59zd15yxv9).
 ## Seminar details:
 
 The seminar runs from 14:00 -- 15:00 on Thursdays in MCS 2068.  We'll show you the way to the room, of course. The seminar room is
-in fairly heavy use, and the Durham timetable means that talks actualy start at 14:05 and must end (including questions) by 14:55. 
+in fairly heavy use, and the Durham timetable means that talks actually start at 14:05 and must end (including questions) by 14:55. 
 If you are using slides, please email them to us in advance: an overactive university antivirus system means large attachments can take a long time (order many minutes) to be processed.
 
 The probability group / attendees of the probability seminar are a relatively diverse mathematical audience. Accessible talks are highly appreciated! If you are unsure about what this means, you might
