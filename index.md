@@ -11,9 +11,11 @@ See my [arXiv](https://arxiv.org/search/?searchtype=author&query=Helmuth%2C+Tyle
 ## Events
 **Upcoming** (as participant): [ADYN Summer School, Lake Möhnesee](https://eac.cs.tu-dortmund.de/events-1/adyn-summerschool-2026/), [Statistical Mechanics: planar & beyond, Vienna](https://www.esi.ac.at/events/e589/). 
 
+**Upcoming** (as organizer): [Frontiers of Statistical Mechanics and Theoretical Computer Science](https://www.birs.ca/events/2027/5-day-workshops/27w5717).
+
 I co-organize the [Durham Probability Seminar](https://www.maths.dur.ac.uk/seminars/) with [Dr. Oliver Tough](https://sites.google.com/view/olivertough/). [Practical details](https://www.tylerhelmuth.net/seminardetails) about the seminar. 
 
-**Past** (as organiser): [Frontiers... workshops](https://willperkins.org/frontiersworkshops.html).
+**Past** (as organizer): [Frontiers... workshops](https://willperkins.org/frontiersworkshops.html).
 
 ## Contact
 I'm an associate professor in the Department of Mathematical Sciences at the University of Durham. You can email me: bhjm24 at durham dot ac dot uk. If you are in Durham, find me in MCS 3031.
