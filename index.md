@@ -9,7 +9,7 @@ I am a mathematician working on problems in statistical mechanics and probabilit
 See my [arXiv](https://arxiv.org/search/?searchtype=author&query=Helmuth%2C+Tyler&abstracts=show&size=50&order=-announced_date_first) page.
 
 ## Events
-**Upcoming** (as participant): [Statistical Mechanics: planar & beyond, Vienna](https://www.esi.ac.at/events/e589/). 
+**Upcoming** (as participant): [ADYN Summer School, Lake Möhnesee](https://eac.cs.tu-dortmund.de/events-1/adyn-summerschool-2026/), [Statistical Mechanics: planar & beyond, Vienna](https://www.esi.ac.at/events/e589/). 
 
 I co-organize the [Durham Probability Seminar](https://www.maths.dur.ac.uk/seminars/) with [Dr. Oliver Tough](https://sites.google.com/view/olivertough/). [Practical details](https://www.tylerhelmuth.net/seminardetails) about the seminar. 
 
