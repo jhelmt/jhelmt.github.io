@@ -4,7 +4,7 @@
 #### Related research areas: combinatorics; mathematical physics.
 
 ## Description:
-Phase transitions are familiar: water turns from liquid to gas at the boiling point. Knowing that all matter is made of atoms, and that atoms follow Newton's equations, how could we predict this behaviour? The field of statistical mechanics is devoted to this question in all of its many guises. It turns out to be fruitful to set Newton's equations aside, and instead turn this into a probability problem. This project concerns a particularly simple and tractable special case, so-called *spin systems*. These serve as models for various physical phenomena and have the appeal of being comparatively simple to define with mathematical precision. 
+Phase transitions are familiar: water turns from liquid to gas at the boiling point. Knowing that all matter is made of atoms, and that atoms follow Newton's equations, how could we predict this behaviour? The field of statistical mechanics is devoted to this question in all of its many guises. It turns out to be fruitful to set Newton's equations aside, and instead turn this into a probability problem. This project concerns a special case, so-called _spin systems_. These serve as models for various physical phenomena (liquid-vapour transition; magnetism; crystallization) and have the appeal of being comparatively simple to define with mathematical precision. Despite this simplicity, spin systems display rich and varied behaviour, and their mathematical analysis is the subject of much ongoing research.
 
 ## Group Project:
 The group project will revolve around learning basic concepts and results about spin systems through the lens of the Ising model. 
