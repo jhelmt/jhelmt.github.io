@@ -15,7 +15,7 @@ See my [arXiv](https://arxiv.org/search/?searchtype=author&query=Helmuth%2C+Tyle
 
 I co-organize the [Durham Probability Seminar](https://www.maths.dur.ac.uk/seminars/) with [Dr. Oliver Tough](https://sites.google.com/view/olivertough/). [Practical details](https://www.tylerhelmuth.net/seminardetails) about the seminar. 
 
-**Past** (as organizer): [Frontiers... workshops](https://willperkins.org/frontiersworkshops.html).
+**Past** (as organizer): [Frontiers... workshops](https://willperkins.org/frontiersworkshops.html), [UK Easter Probability Meeting 2025](https://sites.google.com/view/ukeastermeeting2025/). 
 
 ## Contact
-I'm an associate professor in the Department of Mathematical Sciences at the University of Durham. You can email me: bhjm24 at durham dot ac dot uk. If you are in Durham, find me in MCS 3031.
+I'm a professor in the Department of Mathematical Sciences at the University of Durham. You can email me: bhjm24 at durham dot ac dot uk. If you are in Durham, find me in MCS 3031.
