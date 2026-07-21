@@ -11,7 +11,7 @@ See my [arXiv](https://arxiv.org/search/?searchtype=author&query=Helmuth%2C+Tyle
 ## Events
 **Upcoming** (as participant): [Bath Probability Lectures 2026](https://www.bath.ac.uk/events/bath-probability-lectures-2026/), [Statistical Mechanics: planar & beyond, Vienna](https://www.esi.ac.at/events/e589/). 
 
-**Upcoming** (as organizer): [Frontiers of Statistical Mechanics and Theoretical Computer Science](https://www.birs.ca/events/2027/5-day-workshops/27w5717).
+**Upcoming** (as organizer): [Frontiers of Statistical Mechanics and Theoretical Computer Science 2027](https://www.birs.ca/events/2027/5-day-workshops/27w5717).
 
 I co-organize the [Durham Probability Seminar](https://www.maths.dur.ac.uk/seminars/) with [Dr. Oliver Tough](https://sites.google.com/view/olivertough/). [Practical details](https://www.tylerhelmuth.net/seminardetails) about the seminar. 
 
