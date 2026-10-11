@@ -18,3 +18,6 @@ I co-organize the [Durham Probability Seminar](https://www.maths.dur.ac.uk/semin
 
 ## Contact
 I'm a professor in the Department of Mathematical Sciences at the University of Durham. You can email me: bhjm24 at durham dot ac dot uk. If you are in Durham, find me in MCS 3031.
+
+##
+![Animated demonstration](largest-tree-alpha1.3-N1000-1sweeps-per-second.gif)
